@@ -1,0 +1,24 @@
+.emoji {
+  font-size: 100px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+}
+.close {
+  display: none;
+}
+.open {
+  display: none;
+}
+.active {
+  display: block;
+}
+.closed-text {
+  display: none;
+}
+.open-text {
+  display: none;
+}
+.active-1 {
+  display: block;
+}
